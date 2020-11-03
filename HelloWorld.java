@@ -9,7 +9,6 @@ class HelloWorld
         System.out.println("Hello, World"); 
 	System.out.println("2nd print line");
 	System.out.println("2nd print line");
-	System.out.println("2nd print line");
 
     } 
 }
